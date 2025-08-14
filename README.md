@@ -24,7 +24,7 @@ The goal was to design an interactive Power BI report with **at least three repo
   - Year-over-year comparison with DAX
   - Mobile layout optimization
   - Clickable URLs in visuals
-- Optional enhancements: custom theme with consistent color palette.
+  - Custom theme with consistent color palette for visual identity.
 
 ---
 
@@ -32,14 +32,14 @@ The goal was to design an interactive Power BI report with **at least three repo
 1. **Dashboard Overview** – KPIs, sales trends, top products, and territory map.
 2. **Products & Customers** – Best-selling products, customer ranking, and category analysis.
 3. **Sales Territories & Salespersons** – Territory performance, salesperson metrics, and detailed drill-through.
+4. **Feature Overview** – Documentation of advanced Power BI features used in the report, with visual examples.
+
 
 ---
 
 ## Data Model
-- Fact constellation schema with two fact tables and several shared dimensions.
-- Some snowflake-style normalization for certain entities (e.g., Customer ↔ Address).
-- No transformation of raw data structure, as per assignment instructions.
-- Data cleaning and optimization applied within Power BI where needed.
+- Existing AdventureWorks data model provided in the assignment, used without altering the underlying table structure.
+- Fact constellation schema with two main fact tables sharing multiple dimension tables.
 
 ---
 
