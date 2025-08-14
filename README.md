@@ -1,14 +1,14 @@
 # Power BI AdventureWorks Dashboard
 
 Business intelligence project created as part of my Data Science studies, based on the **AdventureWorks2022** dataset.  
-The goal was to design an interactive Power BI report with **at least three report pages**, each presenting relevant business insights, while ensuring high usability and applying advanced Power BI features.
+The task was to create an interactive Power BI report with three or more pages using the provided data model without altering its structure, presenting relevant business insights with a focus on high usability and advanced Power BI features.
 
 ---
 
 ## Project Objectives
-- Present key sales insights across products, customers, territories, and time.
-- Build a user-friendly and visually appealing dashboard with multiple pages.
-- Apply advanced Power BI functionality for deeper interactivity.
+- Create a Power BI report with at least three pages, each containing relevant visualizations from the provided AdventureWorks data model.
+- Ensure clear presentation and high usability.
+- Implement advanced features to enhance interactivity and analysis.
 
 ---
 
@@ -29,21 +29,21 @@ The goal was to design an interactive Power BI report with **at least three repo
 ---
 
 ## Report Pages
-1. **Dashboard Overview** – KPIs, sales trends, top products, and territory map.
-2. **Products & Customers** – Best-selling products, customer ranking, and category analysis.
-3. **Sales Territories & Salespersons** – Territory performance, salesperson metrics, and detailed drill-through.
-4. **Feature Overview** – Documentation of advanced Power BI features used in the report, with visual examples.
-
+**Dashboard Overview** – KPIs, sales trends, top products, and territory map.
+**Products & Customers** – Best-selling products, customer ranking, and category analysis.
+**Sales Territories & Salespersons** – Territory performance, salesperson metrics, and detailed drill-through.
+**Feature Overview** – Documentation of advanced Power BI features used in the report, with visual examples.
 
 ---
 
 ## Data Model
-- Existing AdventureWorks data model provided in the assignment, used without altering the underlying table structure.
-- Fact constellation schema with two main fact tables sharing multiple dimension tables.
+- Existing AdventureWorks data model provided in the assignment, used exactly as given without altering the structure or transforming the data.
+- Multiple fact table model (fact constellation) sharing common dimension tables.
 
 ---
 
 ## Key Insights
+From the completed dashboard, the following business insights were identified:
 - North America is the leading sales territory.
 - Road Bikes category generates the highest revenue.
 - Peak sales occur during summer months.
