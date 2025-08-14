@@ -63,19 +63,19 @@ You can open the file in **Power BI Desktop**.
 <br>
 
 ### Dashboard  
-![Dashboard](images/1_dashboard.png)  
+![Dashboard](image/1_dashboard.png)  
 <br>
 
 ### Products 
-![Products](images/2_products.png)  
+![Products](image/2_products.png)  
 <br>
 
 ### Store & Sales Person  
-![Store & Sales Person](images/3_store_sales_person.png)  
+![Store & Sales Person](image/3_store_sales_person.png)  
 <br>
 
 ### Feature Overview  
-![Feature Overview](images/4_feature_overview.png)  
+![Feature Overview](image/4_feature_overview.png)  
 <br>
 
 ---
