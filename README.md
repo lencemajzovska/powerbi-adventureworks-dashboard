@@ -59,7 +59,7 @@ You can open the file in **Power BI Desktop**.
 
 ---
 
-## Demo Preview  
+## Report Preview  
 <br>
 
 ### Dashboard  
