@@ -42,7 +42,7 @@ The project analyzes sales performance across products, customers, sales territo
 
 ## Download and Open the Report
 
-👉 [adventureworks_dashboard.pbix](./adventureworks_dashboard.pbix)  
+👉 [adventureworks_dashboard.pbix](./power_bi_adventure_works.pbix)  
 
 You can open the file in **Power BI Desktop**.
 
