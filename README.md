@@ -53,7 +53,7 @@ From the completed dashboard, the following business insights were identified:
 
 ## Download and Open the Report
 
-👉 [power_bi_adventure_works.pbix](./power_bi_adventure_works.pbix)  
+👉 [powerbi_adventureworks.pbix](./powerbi_adventureworks.pbix)  
 
 You can open the file in **Power BI Desktop**.
 
